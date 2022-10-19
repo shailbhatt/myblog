@@ -1,10 +1,10 @@
 # TCP History and process of communication on network 
 
-###Born of TCP
+##Born of TCP
 
  TCP was first proposed as an "internetwork Transmission Control Program" in 1974. It was an interface to programs or users that require process to process communication. Processes are viewed as the active elements of all HOST computers in a network. Even terminals and files or other I/O media are viewed as communicating through the use of processes. Thus, all network communication is viewed as inter-process communication.
 
-###Do you wonder how two system or applications communicate with eachother? 
+##Do you wonder how two system or applications communicate with eachother? 
 Humans have established process for a communication. Lets take example of two stranger starting the conversation. It generally like both persons will exachange the greeting message like Hi, Helllo, goodmorning and first person will introduce oneself. Another person acknowlwge it and we just share some common topic on which both can communicate. 
 
 
@@ -20,14 +20,14 @@ Source: https://en.wikipedia.org/wiki/Protocol_stack
 ![](../media/tls/protocol_stack_osi_model.png)
 
 
-###What is a connection?
+##What is a connection?
 A CONNECTION is fully specified by the pair of SOCKETS at each end since the same local socket may participate in many connections to different foreign sockets.
 In general, a socket is the concatenation of a NETWORK identifier, TCP identifier, and PORT identifier. 
 
 https://en.wikipedia.org/wiki/Communication_protocol
 
 
-I came across really brief history of the internet in this blog by William Craig- https://www.webfx.com/blog/web-design/the-history-of-the-internet-in-a-nutshell/
+I came across really brief history of the internet in this blog by William Craig- https://www.webfx.com/blog/web-design/the-history-of-the-internet-in-a-nutshell/. This nice article. 
 
 
 
