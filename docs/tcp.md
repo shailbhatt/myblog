@@ -27,7 +27,7 @@ In general, a socket is the concatenation of a NETWORK identifier, TCP identifie
 https://en.wikipedia.org/wiki/Communication_protocol
 
 
-I came across really brief history of the internet in this blog by William Craig- https://www.webfx.com/blog/web-design/the-history-of-the-internet-in-a-nutshell/. This nice article. 
+I came across really brief history of the internet in this blog by William Craig- https://www.webfx.com/blog/web-design/the-history-of-the-internet-in-a-nutshell/. This nice article.:thumbsup:
 
 
 
