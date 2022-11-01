@@ -1,4 +1,4 @@
-#Becoming an SDE2 at Amazon (my journey)
+# Becoming an SDE2 at Amazon (my journey)
 
 ![](./my_journey/my_journey.webp)
 

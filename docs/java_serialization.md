@@ -1,4 +1,4 @@
-#Workaround for Java Deeply Flawed Serialization
+# Workaround for Java Deeply Flawed Serialization
 
 ![](./java_serialization/java_serialization.webp)
 

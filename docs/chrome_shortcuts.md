@@ -1,4 +1,4 @@
-#You can be more efficient while using Chrome!
+# You can be more efficient while using Chrome!
 
 
 ![](./chrome_shortcuts/chrome_shortcut.jpeg)
