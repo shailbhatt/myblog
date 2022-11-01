@@ -28,7 +28,7 @@ I explores new field of learning with my current work. Like currently, Apart fro
 
 ## Why this blog?
 
-I will share my learning through the blogs. I have always got small level recogniztion for my notes making on any topic. So I thougth to extend my natural talent to wider audience. I hope you all will get some learning from my blogs.
+I will share my learning through the blogs. I have always got recogniztion for my notes making or technical documentation on any topic. So I thougth to extend my natural talent to wider audience. I hope you all will get some learning from my blogs.
 
 ## More content
 
