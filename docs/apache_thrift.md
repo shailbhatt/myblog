@@ -1,7 +1,5 @@
 # Apache Thrift : In microservices API world
 
-<img src="./apache_thrift/asf-estd-1999-logo.jpg" alt="apache_logo" width="250" />
-
 The world of APIs is changing. While developing APIs, it is important to take into consideration, the architecture upon which the system is being built. Choices made in the design phase could make or break the entire system. Wrong API design selection can turn useful concepts and smart applications into useless chunks of code. This happens to many start-ups.
 
 Most architectures fall broadly into two categories- SOAP or REST. For a long time, the two were dominant in the API market. Common thought among designers was that you were either RESTful or SOAP in orientation; this mindset changed with one significant development. In 2007, social media juggernaut Facebook released a technical paper detailing an internal architecture system upon which the bulk of their system operated, and that marked the birth of ‘Thrift’.
